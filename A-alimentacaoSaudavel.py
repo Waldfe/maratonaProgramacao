@@ -1,5 +1,5 @@
 
-def new_func():
+def alimentacao_saudavel():
     
     cont = 0
     soma = 0
@@ -22,4 +22,4 @@ def new_func():
         
     print(soma)
 
-new_func()
+alimentacao_saudavel()
